@@ -2,7 +2,7 @@ name: Parenting Daily Digest
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # 台灣時間每天早上 6:00
+    - cron: '*/30 * * * *'  # 台灣時間每天早上 6:00
   workflow_dispatch:
 
 jobs:
