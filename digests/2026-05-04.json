@@ -1,19 +1,19 @@
 {
   "development": {
-    "summary": "兒童發展研究持續揭示關鍵洞見：0-3歲大腦黃金期每秒建立700-1000個神經連結，高品質親子互動遠比工具性教學更重要。最新研究警告AI與平板過度使用恐損害大腦發展，而史丹佛研究提醒勿以平均值評斷孩子專注力。語言發展、感覺統合、早期療育等議題受到廣泛關注，個別化、遊戲化的學習方式成為主流趨勢。",
+    "summary": "兒童發展領域正面臨多重挑戰與機遇。0-3歲大腦黃金期每秒建立700-1000個神經連結，高品質親子互動至關重要。最新研究警示AI與螢幕過度使用恐損害兒童大腦發展，而專注力、語言發展與感覺統合問題日益受到重視。史丹佛研究提醒勿以平均值評斷孩子，蒙特梭利等教育哲學強調尊重個別發展節奏，早期篩檢與療育介入是守護慢飛天使的關鍵策略。",
     "keyPoints": [
-      "【語言發展質重於量】孩子說話慢不一定是教太少，專家指出許多父母反而教太早、太多。高品質的雙向互動對話，遠比單向資訊灌輸更能促進語言發展，避免過度依賴iPad等單向聲音輸入。",
-      "【AI與螢幕的雙面刃】《紐約客》引述學界警告，AI全面進入校園恐傷害兒童大腦發展。研究也顯示人類專注力已縮短至47秒，數位環境對兒童認知與專注力發展的長期影響值得高度警惕。",
-      "【專注力需個別化評估】史丹佛醫學院最新研究指出，不應用平均值評斷孩子的專注力表現。每個孩子的神經發展節奏不同，心理師建議透過理解注意力運作機制，給予符合個別需求的支持策略。",
-      "【感覺統合是學習基礎】感覺統合失調可能影響孩子學習與行為表現，及早透過職能治療介入效果最佳。彰化縣等地已積極推動特殊需求兒童感覺統合訓練，顯示社會對早期療育的重視程度提升。",
-      "【遊戲化破解學習障礙】數學教育名師莊惟棟以「魔數遊戲」正面應對學習障礙，印證蒙特梭利「跟隨孩子」理念——透過精心設計的環境與遊戲，讓孩子在自主探索中建立真正的學習動機與能力。"
+      "【語言發展勿求快】專家警告許多父母教語言「教太早、方式錯誤」，高品質面對面互動遠比讓孩子聽iPad更有效，言語治療師強調雙向對話才是正確語言輸入關鍵。",
+      "【AI與螢幕的隱憂】《紐約客》引述學界警告，AI全面進入校園恐傷害兒童大腦發展。人類專注力研究顯示平均僅剩47秒，數位環境對兒童認知發展衝擊不容忽視。",
+      "【拒絕平均值迷思】史丹佛醫學院最新研究指出，不應用平均值評斷孩子專注力，每個孩子發展節奏不同，蒙特梭利「跟隨孩子」理念與此高度呼應，尊重個別差異是核心。",
+      "【感覺統合與早療】感覺統合失調影響學習與行為，需及早發現介入。台南新樓醫院與土城醫院等機構將兒童發展篩檢走入社區，為慢飛天使提供更即時的早期療育支援。",
+      "【營養與大腦發展】醫師研究指出缺乏特定營養素確實影響兒童智力發展，然而加強配方奶粉效益仍有爭議，建議優先透過天然飲食補充，搭配豐富感官刺激促進腦部發育。"
     ],
     "questions": [
-      "在數位科技高度普及的環境下，父母應如何拿捏幼兒使用平板與螢幕的界線，才能在不剝奪科技優勢的同時，保護大腦發展黃金期？",
-      "史丹佛研究提醒勿以平均值評斷孩子專注力，那麼學校與家長應建立什麼樣的評估框架，才能真正識別孩子是「發展遲緩」還是「個別差異」？",
-      "蒙特梭利與華德福教育理念在台灣日益普及，這兩種教育哲學的核心差異為何？面對不同氣質的孩子，父母應如何選擇最適合的教育方式？",
-      "感覺統合失調的早期徵兆往往被誤認為「調皮」或「不專心」，父母和教師應具備哪些觀察指標，以便及時轉介早期療育資源？",
-      "0-3歲大腦發展黃金期對弱勢家庭兒童而言可能因資源不足而錯失，社會與政策層面應如何介入，縮小因家庭背景造成的兒童發展落差？"
+      "在數位科技高度普及的時代，父母應如何在善用科技輔助學習與保護兒童大腦健康發展之間取得平衡？",
+      "台灣的早期療育資源分布是否均衡？偏鄉與都市的兒童在發展篩檢與介入機會上存在哪些落差，應如何改善？",
+      "蒙特梭利、華德福等另類教育哲學強調自主與個別節奏，這些理念在台灣主流教育體制中的融合與實踐面臨哪些挑戰？",
+      "當孩子被診斷為學習障礙或發展遲緩時，父母常面臨巨大心理壓力，社會與學校系統應提供哪些具體支持以協助家庭共同面對？",
+      "0-3歲黃金期的重要性已獲科學證實，但許多雙薪家庭難以提供充足陪伴，政府與企業應採取哪些政策措施來支持嬰幼兒的最佳發展環境？"
     ],
     "sources": [
       {
@@ -29,12 +29,6 @@
         "publishedAt": "2026-05-03T01:33:57.000Z"
       },
       {
-        "name": "健康網》幫助孩子專注 心理師解說注意力 - 自由健康網",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNlVtTmM2NGNtZ3FtQkFuUk5MUFRkXzVkb1JEOFV6WXBadW1xWEEyX1JPZW9wOWtNaUxtVWFvRlFsbHFDcXZKVTNTemJpUEtPdk9Pc0xQZzBCa1Q2d0lDVXRtNzBpZjZmeWfSAWpBVV95cUxOYTZVbU5jNjRjbWdxbUJBblJOTFBUZF81ZG9SRDhVellwWnVtcVhBMl9ST2VvcDlrTWlMbVVhb0ZRbGxxQ3F2SlUzU3piaVBLT3ZPT3NMUGcwQmtUNndJQ1V0bTcwaWY2Znln?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-05-01T08:11:00.000Z"
-      },
-      {
         "name": "孩子學習差距越來越大？醫揭關鍵 缺這1種食物真的會影響智力 - 台視新聞網",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43dFYxYmhEZlR4SWhRcWNWZW95T3M5Mms0elYtNkRZc2xqM1M0ZmRvc3pNb3ZTcTVTcU1sU3lkLXlXdVVSVHJKRzlNN2hRaUpqYVh6YlBLcw?oc=5",
         "source": "Google News",
@@ -45,26 +39,38 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtbTNzSVc5QS1rSmRGS1VvTlpndWZFV0JDS2hLajY3Sy1mZG8zZE43MTdlQXpZNGpWZWVFLWtpaTdtSHNBbFFDVGljNHhaX3EyOHFNdC05UVVzb1Fk?oc=5",
         "source": "Google News",
         "publishedAt": "2026-04-30T07:00:00.000Z"
+      },
+      {
+        "name": "幼兒認知發展｜8個月大BB已識大話？扮喊扮聽唔到 英國研究揭幼兒3歲前16種欺騙行為 - 香港經濟日報HKET",
+        "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPeV9ZZV91QWVxTVlhYllDcXQ0Q05zbDVNbm5mcDNXQU5tb2NNTFNDQW4xaVVNaEo1b05PNkFuWXVpU09ubE91OU9ybnREMEtYcl9TRFVTOXhDN0RaQTJ2bC1iMGRRMmFMOE96S3RTVWdsN0ZuaEVhWVI1bXIzVnpidmpwUExVTmFwSXBzejZJR004azIyZnFZMWttMnhJaVR6azlVZ0ZxMk1scEJuY01WZVB5NVFEMTROTXVzX1k5ZlVqUzVwS0xHLU1JOEF1SjIxYWFCLTBma2hmQXlOMXpVRmxPcFRLV20tT2laWFdnYVg2WWlpVU1pRl90MTdQSGNXVG5obmhnbjZtZ1F0SE0taVZWRVVjUnJKQ2V6enI2UTkxaWVxSm1KMnlsYnZsc0NLbWRFbEZKYmNQT1V1NmRsWjFSeERFb19KdVU1eWZ0YkZVVG9uZlhjdnVYUjdTczhpa205SkdYMF9WTjlMcDlWOE5Cb2F4MW5fR2NkMEZVSUpEdDROR0ItOEtRZmx4Z3lUN0dzOXY1SDdPTjNFMVAzSGNLbWI0d0p2S01mRHhkLUlLZjFObmZ1Qk1oSnNuN2R3M0ZlSGtTcG92RUk0RVIzSjhfZzdlc0FZWHBCZlFzMWZ1b0g4NjZMSG1jT2VrZDNPRjFBek1kM2NsUmtnWlFLV0xid1hIN1dyYkE?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-04-30T01:00:00.000Z"
       }
     ]
   },
   "psychology": {
-    "summary": "當代兒童心理發展面臨多重挑戰：後疫情時代行為問題增加、科技產品（如AI玩具）潛在危害情感發展，以及社會高壓環境引發焦慮症與選擇性緘默症案例攀升。研究指出，0-2歲安全依附關係奠定情緒調節基礎，而「情緒富養」與正向教養正成為主流趨勢。家長角色從管教者轉型為情緒引導者，同理心培育與創傷復原支持體系的建立，是守護兒童心理健康的關鍵策略。",
+    "summary": "當代兒童心理關注焦點涵蓋依附關係建立、情緒教養與創傷復原。研究顯示0-2歲安全依附是情緒調節基礎，分離焦慮於8個月至2歲最為明顯。「情緒富養」成為新興教養趨勢，強調從小培育孩子情緒識別與同理心能力。與此同時，AI玩具冷漠回應、華裔青少年心理問題、自閉症與選擇性緘默症等議題也引發社會關注，顯示兒童心理健康需要家庭、學校與社會共同支持。",
     "keyPoints": [
-      "【依附關係是根基】0-2歲建立的安全依附關係直接影響孩子未來人際與情緒調節能力。研究顯示「焦慮型」與「逃避型」依附模式（焦逃配）會延續至成人關係，早期親子互動品質至關重要。",
-      "【分離焦慮需科學應對】分離焦慮在8個月至2歲最明顯，屬正常發展階段。建議家長採取「一致性道別儀式」，避免偷偷離開，以穩定回應降低孩子不安全感，而非過度安撫或強行分離。",
-      "【情緒富養取代壓抑教養】「情緒富養」成新趨勢，強調讓孩子充分感受與表達情緒。阿德勒正向教養提醒：孩子「壞脾氣」是求救訊號，需解讀行為背後需求，而非單純懲罰或壓制。",
-      "【高敏感兒童與選擇性緘默需關注】選擇性緘默症兒童因焦慮有苦難言，如新聞中腳痛被罰站卻無法開口的女學生案例。高敏感兒童情緒反應強烈，需差異化支持策略，避免誤判為「不聽話」。",
-      "【科技與創傷雙重挑戰】AI玩具回應冷漠恐阻礙兒童情感連結發展；後疫情小學生行為問題顯著增加。創傷兒少需透過藝術治療（如畫展）等多元方式重建自我敘事，同理心教育成修復社會連結關鍵。"
+      "【依附關係是情緒根基】0-2歲建立的安全依附關係直接影響孩子未來人際互動與情緒調節能力。研究指出，依附類型（如焦慮型、逃避型）甚至延伸影響成人的親密關係模式。",
+      "【分離焦慮需科學回應】分離焦慮在8個月至2歲最明顯，屬正常發展階段。家長應避免偷偷離開或過度安撫等NG行為，以一致、溫和的告別儀式幫助孩子建立安全感與預期感。",
+      "【情緒富養成教養新主流】「情緒富養」趨勢強調讓孩子充分感受、表達與理解情緒，而非壓抑。專家指出，情緒教育到位的孩子長大後更具心理韌性與自我調節能力，面對挫折更有底氣。",
+      "【同理心可從4歲起培育】兒童約在4-5歲開始發展同理心，家長可透過繪本共讀、角色扮演引導孩子換位思考。國語日報報導指出，培養同理感是迎向溫暖世代的核心教育力量。",
+      "【科技與特殊需求兒童受關注】AI玩具冷漠回應恐對兒童情感發展造成負面影響；自閉症學生因難以開口求助，家長呼籲建立「隱性需求標誌」制度，顯示特殊兒童的心理支持系統亟待完善。"
     ],
     "questions": [
-      "在數位科技與AI互動玩具普及的環境下，如何確保兒童仍能與真實照顧者建立穩固的依附關係，而不被冷漠的機器互動所取代？",
-      "後疫情世代兒童的行為問題與焦慮症狀明顯增加，學校與家庭應如何分工合作，建立更完善的兒童心理支持系統？",
-      "選擇性緘默症等「沉默型」心理困擾往往被師長誤解為頑固或不合作，教育現場應如何提升識別與回應能力，避免二次傷害？",
-      "「情緒富養」強調充分表達情緒，但在不同文化背景（如華人重視克制情緒的傳統）中，如何平衡文化價值觀與現代兒童心理健康需求？",
-      "父母自身的依附模式與分離焦慮會直接投射在親子關係上，應如何設計有效的家長心理支持方案，從源頭改善兒童的情緒發展環境？"
+      "如果孩子在0-2歲未能建立安全依附關係，家長或教育者在後續階段可以採取哪些具體補救策略來修復依附關係？",
+      "面對分離焦慮的幼兒，幼兒園教師與家長應如何分工合作，設計一套有效且一致的入園適應方案？",
+      "「情緒富養」的教養方式在不同文化背景（如華人家庭重視壓抑情緒的傳統）中可能遇到哪些阻力，應如何調適推行？",
+      "AI玩具、平板等科技產品日益普及，如何在善用科技輔助學習的同時，避免其冷漠互動模式對兒童情感與依附發展造成傷害？",
+      "對於有選擇性緘默症或自閉症等隱性需求的兒童，學校與社會政策應如何系統性地建構支持環境，讓這些孩子得以安全表達需求？"
     ],
     "sources": [
+      {
+        "name": "自閉症高二生難開口求助 家長盼北市設「隱性需求標誌」 - 自由健康網",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydUk3cVh3M3pXXzhKaFR6VXNzSVF5SVg4ZHJMb21KMDhwemU3RFNOWW0wbTBfcVRySzY0aTYwQ2laTU9tR1RNT1B1WGlsVXFjUDZWZ0U0dXRSUVhQTkNLdmR2a2RNUFQ1bFHSAWpBVV95cUxQMnVJN3FYdzN6V184SmhUelVzc0lReUlYOGRyTG9tSjA4cHplN0RTTlltMG0wX3FUcks2NGk2MENpWk1PbUdUTU9QdVhpbFVxY1A2VmdFNHV0UlFYUE5DS3ZkdmtkTVBUNWxR?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-05-04T06:18:00.000Z"
+      },
       {
         "name": "2歲上學哭不停？看懂孩子發展關鍵期，用科學育兒度過分離焦慮 - 親子天下Premium",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oZG9DQmF6N2J5WVNGbTM4clhyUFBJRHZweHJjS2g5QWNyTUE5bVRVRnZXRTgteFg2eTFfZE80RXgxdFlsSGFtdldRT0lYRXhBR1A0dTA1cHlwTDBU?oc=5",
@@ -78,47 +84,47 @@
         "publishedAt": "2026-04-21T07:00:00.000Z"
       },
       {
-        "name": "在咖啡香中找回自己 親職心靈沙龍陪伴家長重拾教養能量 - 生活新聞 - PChome Online 新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEg0NzdIVzdlNGgzYzNkZTItbUhJWng2YUVRNXJ6V0lqYWZ6eV9EWE1oSFFfcE5qWG1UR3E4MjlYTUpFc2JRWjU1VVZobE1CbEI0MlNwa1hpZDQ5TmRvVjBCZ3l5MEh5ZktoZm5UVDVIV0ViOXZORnRULUxFejFjazc1bHUzQzU3RG9N?oc=5",
+        "name": "在咖啡香中找回自己 親職心靈沙龍陪伴家長重拾教養能量 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1bWpmSGFmdmhrakFZYjI2blpEUkVxLW4zc2hBdDhZUjdfQ2RRdER2UUE4VzRnelFtR0oyVWtfaHFvblhxLXJwTHVFbEdCZE90RlE?oc=5",
         "source": "Google News",
-        "publishedAt": "2026-04-20T09:18:10.000Z"
+        "publishedAt": "2026-04-20T16:44:18.000Z"
       },
       {
         "name": "華裔青少年心理問題引關注 專家：家長是孩子情緒教育引導者 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tRVFNNnplbk5NMHAzTjJtMTFoblJ6U29FRWp5Z1REYUtmQVN0LWxqZ3ZXbDhMU204aUk5dkowSzZiMGVCc3dlbzNOcW5XbDVUODJoQ2hRSzh5S19wSnlBZtIBZkFVX3lxTE9VMFdjTm1tbmV3cU5CdXkyZ1NBSnVSUW1HaVdkNTNDb2J1OG1VRGtwZlJJdUY3ZGZncDJzcm1oMlpyVllyNzJNOFRoWDhhU05sUndrbTJaU1RBaHh2ZVhVa0YtQ29Pdw?oc=5",
         "source": "Google News",
         "publishedAt": "2026-04-20T07:00:00.000Z"
-      },
-      {
-        "name": "為什麼越愛越不安？專家解析「依附關係」：關鍵不在愛多深，而在如何靠近 - peopo.org",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zdmh5Y0lSZk02cnVVaGRpRjRHWWl6R1RKRG1rNWFKdjU5RERCc3pRdEZlRWhFY2pUZE13MDhyM3UwZW50MFlFXw?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-04-10T07:00:00.000Z"
       }
     ]
   },
   "parenting": {
-    "summary": "現代教養趨勢聚焦「溫柔而堅定」的正向管教，強調尊重孩子感受同時堅守明確界線。研究顯示父母本身的螢幕習慣直接影響青少年行為，分齡管理3C使用刻不容緩。零用錢理財教育受重視，如伊能靜「借錢收利息」制度，從生活實踐培養財務責任感。家事參與、親子共讀、動物體驗等多元方式，皆是培養孩子責任感與情感連結的有效途徑。",
+    "summary": "現代教養趨勢朝「溫和而堅定」方向發展，強調在尊重孩子感受的同時維持明確界線。數位時代帶來新挑戰：短影音削弱專注力、手機成癮引發暴飲暴食等身心問題，螢幕時間需依年齡分級管理。財商教育受重視，伊能靜「借錢收利息」、媽媽讓7歲孩子繳房租等案例顯示家長積極從生活中培養責任感與金錢觀。做家事、親子共讀等日常實踐仍是培養孩子自立能力的核心方法。",
     "keyPoints": [
-      "【螢幕時間分齡管理】研究警示短影音削弱孩子專注力，且父母螢幕習慣會直接複製給青少年。醫師建議學齡兒童每日螢幕時間應有上限，親子共同制定規範比單方禁止更有效。",
-      "【零用錢即理財課】伊能靜設計「借錢收利息」機制，另有家長讓7歲孩子繳家庭房租並抽取12.5%，將抽象金錢概念轉化為真實體驗，從小建立正確金錢觀與責任感。",
-      "【界線要具體可執行】設定規則需明確清晰，例如「玩具玩完放回原處」優於「要乖乖的」。模糊指令讓孩子無所適從，具體可操作的界線才能真正落實並建立自律習慣。",
-      "【責任感從做中學】彰化托育研習及SPCA夏令營均印證：讓孩子做家事、照顧動物等真實任務，遠比說教更能內化責任感，自立教養理念在幼兒教育現場持續推廣。",
-      "【溫和教養是主流趨勢】「溫柔而堅定」成為育兒核心關鍵字，既不縱容也不嚴苛。睡前親子共讀兼顧閱讀習慣培養與情感連結，是低科技、高效益的每日親子互動黃金時段。"
+      "【溫和教養成主流】「溫柔而堅定」是正向管教核心：尊重孩子感受的同時堅持界線，界線須明確可執行，如「玩具玩完放回原處」，避免模糊指令如「要乖乖的」。",
+      "【螢幕時間需分齡管理】醫師警告短影音持續滑動恐削弱孩子專注力，學齡兒童每日螢幕時間應有上限；青少年手機成癮更與暴飲暴食等飲食失調行為高度相關。",
+      "【生活化財商教育奏效】伊能靜設借錢收利息制度、美國媽媽讓7歲孩子每月繳交零用錢12.5%作房租，用真實金錢情境讓孩子從小建立理財觀念與責任感。",
+      "【家事是培養責任感最佳媒介】彰化托育研習聚焦「自立教養」，引導孩子透過做家事學習承擔責任；SPCA夏令營以沉浸式動物照護體驗，有效培養孩子愛心與責任心。",
+      "【睡前親子共讀一舉兩得】睡前是親子共讀黃金時段，不僅有助建立閱讀習慣，更創造珍貴情感連結時光，在數位誘惑充斥的環境中，成為親子高品質互動的重要儀式。"
     ],
     "questions": [
-      "當孩子已對短影音或遊戲產生依賴，家長應如何循序漸進地調整螢幕時間，而不引發激烈的親子衝突？",
-      "零用錢教育的起始年齡與金額如何拿捏？「讓孩子繳房租」或「借錢收利息」這類仿真機制，是否適合所有家庭文化背景？",
-      "「溫柔而堅定」在實際操作中最難的挑戰是什麼？當孩子持續哭鬧或反抗界線時，父母如何維持情緒穩定並堅守原則？",
-      "手足之間的衝突是家庭日常，調解時父母如何避免無意間偏袒某一方，同時讓每個孩子都感受到被公平對待？",
-      "家庭會議作為民主式教養工具，如何在不同年齡層的孩子之間有效實踐？年幼孩子是否具備參與討論家規的能力？"
+      "當孩子因手機或短影音上癮出現情緒或飲食問題時，家長應如何在不引發衝突的前提下，逐步建立合理的3C使用規範？",
+      "「讓孩子繳房租」或「借錢收利息」等硬性財商教育方式，是否適合所有年齡與個性的孩子？如何因材施教調整力度？",
+      "在設定親子界線時，孩子說謊或逃避責任的行為該如何處理？正向管教與明確後果之間如何取得平衡？",
+      "手足吵架或同儕霸凌事件發生時，家長和師長如何運用溫和教養原則進行調解，同時讓孩子學習自我倡議與界線設定？",
+      "家庭會議與親子共讀等正向互動儀式，在雙薪或單親家庭中面臨時間壓力時，有哪些彈性實踐方式可以維持其效果？"
     ],
     "sources": [
       {
         "name": "青少年暴飲暴食 恐是手機成癮害的 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPTEFCTEF6aDJmelM1aTkwQkNEVWU2dmVBb05EMC04RkxmazdPRTE5S2ZOR3pmTk5pVGlYTjA5YkRMbWhGZTh1UUhVdlRDUjhyeGxJTXVZUVRxVHpnQ184UzhsY3h4QXJRTUpBT0lJMXRnZF8tek5NTG9kRDc4TGd5UUxCTmVVci1GaG1vQ1UxSkNkQmhCajVYUm00Qms5SU91VmdocWJHUXYyLW9EN0o1dFJKc3pxWllCZGpBVVJJVHBqZVJFVjE1SHptME1HVGd6VkZ4ZlZzbEtmelhCZm9UZU00dlRfOGt5QUFMN2VtZjJnVndWRkhsNy00cjc4NVdZLXNSbUhUcHN0MVcwd2VidDhOT1JIQU16OEF4VE9NZHQ1N3B4RjR4WGxMNkY0LW5kQU9xb2F0cjF1VFVMVlB1a3cweGNOaklHVWJuYzJaOWdRYm1ITWo2dzlCek42bng2WHZOelBkVlpBWWV2b3p2bmtaTnl2U195d3B4S3MtbXBKNk45RmVYRlNSekxuTllydW9QT28xXzMzLXEwc1VNZjMzc0FrYXlnWUs0?oc=5",
         "source": "Google News",
-        "publishedAt": "2026-05-03T13:37:05.000Z"
+        "publishedAt": "2026-05-04T03:30:22.000Z"
+      },
+      {
+        "name": "澳門日報電子版 - 澳門日報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oQzBPSTJIZDZxOTVMR2JJUlhmVVU4WmtJcUVidlY2Z1FfM0JORS01RTctcWYwd1JpMWxxR04zVDJLYTNjYVlzd1JUTXNzNHE3YWR1UV9JVnFoQXBXZVhRV19LZ1dhcXBWeWhjanlvQQ?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-05-03T20:17:03.000Z"
       },
       {
         "name": "魔羯座如何培養對金錢的責任感？ - Bella.tw儂儂",
@@ -137,32 +143,38 @@
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEMWJ2R1ZXeFVRcGZXREdkQnIxeWV5ZE1GZFNVck04Y0g1UXp6TjFMcGlnazJKalgtNDYtNGp5cmxxUHFQbzkyQW1lT2tPQ2xPUlVFYjJjTHJOWXhFTldIOA?oc=5",
         "source": "Google News",
         "publishedAt": "2026-05-02T04:00:33.000Z"
-      },
-      {
-        "name": "太平洋新聞網 - pacificnews.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdHpEc3JhNlRlWlFYaTNUX0xqSUZqeUtOdGlfeG5Fb2gyaWtSRzBaNmJIUzVneldkNEdwdHM0dThVSUFGQkF4aUJXRlBuLTQ3Rl9QckZsY1FZa0h0Zy1sSG1YS3Rydk5RQTBTa1VIdEo3VENCRTVNTw?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-05-01T08:29:29.000Z"
       }
     ]
   },
   "resources": {
-    "summary": "當前台灣親子教育資源呈現多元化發展趨勢：偏鄉兒童發展評估資源正透過外展服務向下紮根（如花蓮慈院進駐秀林社區），數位教養挑戰日益嚴峻（Roblox誘拐事件敲響警鐘），親子活動體驗需求持續增長。台北市提供0-6歲免費發展篩檢，PTT與Dcard成為家長重要經驗交流平台，但專業評估仍不可或缺。資源分配城鄉落差與數位安全是當前最迫切的兩大議題。",
+    "summary": "台灣兒童發展資源正朝向「精準化、在地化、數位化」三大方向演進。從新營醫院MRI快速排檢、花蓮慈院偏鄉外展服務，到基隆免費篩檢計畫，顯示早療資源逐步下沉至社區。與此同時，數位安全、特殊需求教養資源包等議題受到家長高度關注。台北市早療通報中心（02-2597-3801）提供0-6歲免費篩檢，家長應善用並搭配社群平台實戰經驗，共築完整支持網絡。",
     "keyPoints": [
-      "【偏鄉資源破冰】花蓮慈院啟動兒童發展評估外展門診，進駐秀林等偏遠社區，讓山地原鄉家長免於長途奔波，有效把握0-6歲發展黃金期，是縮短城鄉資源落差的重要示範。",
-      "【數位安全新挑戰】美國逾30起兒童遭誘拐案源自Roblox遊戲平台，台灣父母需正視數位教養盲區，建議與孩子共同設定遊戲規則、定期檢視線上互動對象，培養數位素養。",
-      "【在地資源善用】台北市早療通報中心提供0-6歲免費發展篩檢（02-2597-3801），家長若觀察到語言、動作或社交發展遲緩跡象，應儘早申請評估，勿以「等等看」錯失介入時機。",
-      "【情緒教養轉型】教養觀念從「打罵管教」走向「好奇對話」，《正向教養》等書籍倡導先理解孩子情緒背後的需求，再引導行為，親子天下等平台持續提供家長充電的線上講座資源。",
-      "【專業安全警惕】新北語言治療師性侵幼童事件提醒家長：選擇療育資源時須確認機構信譽與人員背景，療程盡量保持透明可觀察，PTT與Dcard的社群推薦可作參考，但仍需謹慎核實。"
+      "【早療黃金期搶救行動】新營醫院推精準分流，MRI排檢縮短至3天；花蓮慈院進駐秀林偏鄉社區，讓交通不便的家長免奔波，把握0-6歲神經發展關鍵窗口。",
+      "【數位安全成新教養課題】Roblox遊戲平台與美國逾30起兒童誘拐案相關，提醒台灣父母數位教養刻不容緩，需建立家庭使用規範與開放溝通管道。",
+      "【特殊需求資源整合】親子天下推出「特殊特質孩子教養資源包」，整合職能、語言治療及特教申請資訊，建議家長同步諮詢學校特教組與醫療端，形成跨域支持。",
+      "【社群實戰智慧不可忽視】PTT親子板、Dcard育兒版及媽咪拜匯聚大量家長第一線經驗，可作為情緒支持與資訊交流平台，但涉及發展評估仍須回歸專業醫師判斷。",
+      "【在地活動強化親子連結】台北親子餐廳、2026年5月全台親子活動總整理等資源豐富，高品質共遊經驗有助於親子依附關係鞏固，搭配《正向教養》等書籍能提升教養效能。"
     ],
     "questions": [
-      "面對城鄉資源嚴重落差，除了醫療機構外展服務，政府與民間還可以建立哪些創新機制，確保偏鄉兒童獲得及時的早期療育支持？",
-      "Roblox等線上遊戲平台的兒童安全事件頻傳，家長在「完全禁止」與「開放使用」之間，如何找到兼顧孩子社交發展需求與數位安全的平衡點？",
-      "PTT親子板、Dcard育兒版等社群平台提供大量家長實戰經驗，這類同儕支持網絡對於家長決策的影響力日益增大，其優勢與潛在風險各是什麼？",
-      "當孩子需要語言治療、職能治療等專業資源時，家長在選擇治療師或機構時應建立哪些評估標準與安全機制，以保障孩子的身心安全？",
-      "正向教養與情緒引導的概念雖廣為傳播，但許多家長反映「知道卻做不到」，在高壓育兒情境下，有哪些具體且可持續的練習方法能幫助家長真正內化這些教養理念？"
+      "偏鄉與都市的早療資源落差仍然顯著，政府與民間如何建立更系統性的「在地化早療網絡」，確保每位兒童不因地域而錯失黃金發展期？",
+      "面對Roblox等平台衍生的數位安全風險，父母應如何在「保護」與「尊重孩子數位探索自主權」之間取得平衡，建立有效的家庭數位公約？",
+      "特殊需求兒童的家長常面臨申請特教資源繁瑣、等待期過長的困境，現行制度有哪些具體改善空間？家長又能如何主動倡議爭取？",
+      "社群平台上的育兒經驗分享既是支持力量，也可能傳播不正確資訊，家長如何培養「媒體識讀」能力，辨別社群建議與專業醫療意見的適用邊界？",
+      "新營醫院語言治療師診間侵犯幼童事件引發信任危機，家長在為孩子選擇治療師或諮商師時，應建立哪些評估機制與安全確認程序以保障兒童安全？"
     ],
     "sources": [
+      {
+        "name": "新營醫院推早療精準分流 磁振造影3天排檢搶救兒童發展黃金期 - 中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QktBazl6TGYyekJ0c3pSYUptRU1fUVpXcHozR1RqMVhwdEFfOWp6Z1N6M0lhVm9KMjdCcC0td29fY3ZxdktiVVdFNWljZGNteWc?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-05-04T05:50:56.000Z"
+      },
+      {
+        "name": "搶救兒童發展黃金期！早療精準分流、MRI快速通關 - 自由健康網",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUWV0dVduTzJxWlVibXliQmsxUV9lcEdlZzAzZ1FJZGJaYkpSWWZyZElXNmFiSC02UlJMLWViWEFVYzVQaE1KMVVtVG1sVGMxcE9fVUtCb3MyQlcxRVFUNTI5aElJa3lubHfSAWpBVV95cUxPSlFldHVXbk8ycVpVYm15YkJrMVFfZXBHZWcwM2dRSWRiWmJKUllmcmRJVzZhYkgtNlJSTC1lYlhBVWM1UGhNSjFVbVRtbFRjMXBPX1VLQm9zMkJXMUVRVDUyOWhJSWt5bmx3?oc=5",
+        "source": "Google News",
+        "publishedAt": "2026-05-04T02:10:00.000Z"
+      },
       {
         "name": "親子丼菜名超地獄 ⋯網驚：以為是親子一起吃的意思 - Yahoo - 汽機車",
         "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNRDUxTEVaRzNLTzNSS2FEUFJ5NHR2QlM0SnBrNjVhRUF3VEdxdUpkbEEwRy1NeVVpdFlIRDFobVl2dzB2TkFMSy1tdkJ4aTA0bTB4WGxnX3BMa1lqVzZCZldJS2NnajNoREZzanB6MmU3djdQSzFjYkd3VHp5bmNhRHRrd0lLWWZUd2hqLU5BUHNHTk90aWlNRVNVWHp4czNmV01zY1lGdFNiZy1RNU5TVVMtRHNyM1ZucmF2LUIwbzFYeDY1cGVmQURzWXVQdXVNZGtvYjFVNTF2SHBQWXRoWlExM2FPbkt4c2lJXzRLbTJIWFpCdUpqUDFfR0xmWEhUbnZVMHJtbnFhSm1WaUwxRDZBX0h4ZDlNYWNXWWFQa0VUQU9OMi1PYWw1ZEkta2h2N2EtWklqMEo5Q0h1VGZBblk5dm5uaWIxOTM0MjZGNA?oc=5",
@@ -176,22 +188,10 @@
         "publishedAt": "2026-04-30T09:46:50.000Z"
       },
       {
-        "name": "2026五一連假去哪玩？5/1全台市集活動懶人包：時間、地點、必逛亮點一次看 - Harper's BAZAAR",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFIxZ3M4eXRQQWROR1FBTzM5SVlUdW9vMUZ3Z1ZteXBCcURBM1MyNmliSk1JTTNlMW1udEI5VlV5cTNsMXdUblBGX3BYUTJXb2o3VmY5T2RRdWRiZGI2QjdZUnBrTDgzamU1TGxRdTFpYlBxYTVpNF94TGhXVUpRdFEyTWhsVjRQbkhqdWluWQ?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-04-30T08:18:59.000Z"
-      },
-      {
         "name": "花蓮偏鄉家長免奔波！花慈進駐秀林社區 兒童發展評估門診啟動 - TVBS 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56U0Y1clRYRGVTbzd5US1fdHJzcU5QLWlxWElzMm1zQ1BnVVpyRWlYMUEtNXRnNWRNQWo5YTZDVFdLc2tjUERMd2JtcV9jU3hkSVo4?oc=5",
         "source": "Google News",
         "publishedAt": "2026-04-30T00:08:00.000Z"
-      },
-      {
-        "name": "親子天下5月會員活動：免費報名教育論壇、小行星10週年、人氣新書分享會！ - 親子天下Premium",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ILWlWQ012dVo5NjZIblhxQ05CUTFucjdZeDNNcV8yWFQ4S2xoLUYtMVVLQzdad014X1dZZk53TWdVc2lSdTM5UGhsOUJRckRqRVNPYTNpVzYwNXhB?oc=5",
-        "source": "Google News",
-        "publishedAt": "2026-04-29T01:49:55.000Z"
       }
     ]
   }
