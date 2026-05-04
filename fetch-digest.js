@@ -6,7 +6,7 @@ const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const GMAIL_USER = process.env.GMAIL_USER;
 const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD;
 const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL || process.env.GMAIL_USER;
-const GITHUB_PAGES_URL = process.env.GITHUB_PAGES_URL || 'YOUR_USERNAME.github.io/parenting-daily-digest';
+const GITHUB_PAGES_URL = process.env.GITHUB_PAGES_URL || 'angel-lin0210.github.io/parenting-daily-digest';
 
 // Google Sheets 設定
 const GOOGLE_SHEET_ID = process.env.GOOGLE_SHEET_ID || 'YOUR_SHEET_ID_HERE';
